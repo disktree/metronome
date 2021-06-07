@@ -1,0 +1,8 @@
+-js web/app.js
+-main App
+-cp src
+-lib om.audio
+-dce full
+-debug
+-D analyzer-optimize
+-D js-es=6
